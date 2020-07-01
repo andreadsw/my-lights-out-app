@@ -19,4 +19,4 @@ You will also see any lint errors in the console.
 
 ## Demo my Lights Out app
 
-See the link: [To be added]
+See demo: <a href="https://my-lights-out-app.netlify.app/" target="_blank">My Lights Out app</a>
